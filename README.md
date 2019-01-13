@@ -1,29 +1,20 @@
 # vue-linker
 
-## Project setup
-```
-npm install
-```
+## What is this?
+A simple linker app that uses the VueJs state management(Vuex).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features
 
-### Compiles and minifies for production
-```
-npm run build
-```
+  * Vuex
+  
+## Quick start
 
-### Run your tests
-```
-npm run test
-```
+1. Clone this repo using `git clone https://github.com/jemjemzms/vue-linker.git`
+2. Move to the appropriate directory: `cd /vue-linker`.<br />
+3. Install by "npm i".<br />
+6. Run "npm run serve".<br />
+7. Open the browser and look into http://localhost:8080.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 💫 Links
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[See Demo](http://reacthooks.netlify.com)
