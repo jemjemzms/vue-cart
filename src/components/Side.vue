@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="side">
     <div class="left">
       <h1>{{ title }}</h1>
 
@@ -25,7 +25,7 @@ import Stats from '@/components/Stats.vue';
 import { mapState, mapMutations, mapActions } from 'vuex';
 
 export default {
-  name: 'HelloWorld',
+  name: 'Side',
   data() {
     return {
       newLink: ''
@@ -69,7 +69,7 @@ export default {
     height: 100%;
   }
 
-  .hello {
+  .side {
     display: grid;
     grid-template-columns: repeat(2, 50%);
     grid-template-rows: 100%;
