@@ -17,4 +17,4 @@ A simple linker app that uses the VueJs state management(Vuex).
 
 ## 💫 Links
 
-[See Demo](http://reacthooks.netlify.com)
+[See Demo](https://vue-linker.netlify.com)
